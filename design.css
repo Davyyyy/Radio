@@ -1,3 +1,11 @@
+@charset "UTF-8";
 body {
     background-color: red;
 }
+#wrapper{
+    background-color:#333;
+	float:inherit;
+	width:900px;
+	position:relative;
+	margin:0 auto 0 auto;
+}    
